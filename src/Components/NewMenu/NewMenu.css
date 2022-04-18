@@ -1,0 +1,25 @@
+.select-menu-title {
+  margin-top: 10px;
+  color: #fff;
+}
+
+.label {
+  display: block;
+  font-size: 20px;
+  margin-top: 10px;
+  color: black;
+}
+
+.select {
+  width: 200px;
+}
+
+.table-wrapper {
+  overflow: auto;
+  height: 420px;
+}
+
+.table-title {
+  color: #fff;
+  margin-top: 10px;
+}

@@ -1,0 +1,27 @@
+.category-input {
+  width: 250px
+}
+
+.add-btn {
+  display: block;
+  margin-top: 20px;
+  
+}
+
+.categories {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+thead {
+  color: #fff;
+}
+
+tr td {
+  color: #fff;
+}
+
+tr {
+  background-color: rgba(107, 107, 107, 0.737);
+}
